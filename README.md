@@ -15,4 +15,4 @@ python element_select.py  -i [GO annotation file path] -o [--output, filter resu
 
 ### Gene ontology annotation number screening conditions
 
-![Gene ontology annotation number screening conditions](./images/sankey.png)
+![Gene ontology annotation number screening conditions](./image/sankey.png)
