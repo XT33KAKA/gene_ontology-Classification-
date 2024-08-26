@@ -13,3 +13,6 @@ python element_select.py  -i [GO annotation file path] -o [--output, filter resu
 - -o ,--output, filter result file output path 
 - -f ,--function, function: ph,tp,os,unresponse
 
+### Gene ontology annotation number screening conditions
+
+![Gene ontology annotation number screening conditions](./images/sankey.png)
